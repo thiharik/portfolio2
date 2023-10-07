@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather',serif;
+    background-color: #F9B5D0;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey ;
+    border-width:10px ;
+    width:10%;
+}
+h1{
+    margin-top: 0
+    font-family:'sacramento', cursive;
+}
+h2{
+font-family:'Montserrat' , sans-serif;
+}
+h3{
+font-family: 'Montserrat' , sans-serif;
+}
+.top-container{
+    background-color: FFDB89;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: BFEAF5;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container{
+    background-color: #88A47C;
+     position:relative;
+    text-align:center;
+    width: 100%;
+    height: 150px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 30px;
+
+}
+.footer-link{
+    font-size:x-large;
+}
+.top-cloud{
+    object-position:10px;
+    padding-left: 600px;
+}
+.bottom-cloud{
+    object-position: top;
+    padding-bottom: 350px;
+}
+.jai-img{
+    padding-left: 400px;
+    width: 180px;
+
+}
+.mid-head{
+    padding-left: 100px;
+    line-height: 0.5em;
+}
+.circular{
+    border-radius: 50%;
+    width: 200px;
+    margin-right: 700px;
+
+
+}
+.skill-row{
+   padding-left: 500px;
+}
+button{
+    color: orchid;
+    background-color: aqua;
+}
+.giphy{
+    margin-left: 200px;
+}
+.firstcol{
+    margin-right: 300px;
+}
+.firstcolumn{
+    margin-right: 100px;
+    line-height: 1.5rem;
+}
+.secondcolumn{
+    line-height: 1.5rem;
+}
+.mountain{
+    padding-bottom: 50px;
+}
+.welcomeline{
+    line-height: 1.4;
+}
